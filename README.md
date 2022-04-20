@@ -1,2 +1,7 @@
-# machine_learning_projects
-Tech Stack: Python, Matplotlib, Pandas, Scikit-learn, lightgbm, statsmodels, 
+## Данный репозиторий содержит проекты по машинному обучению
+
+### Сертификат: [https://drive.google.com/file/d/1zr6xtjd5qHk-A04_0JxRzToJfgU8Biz1/view?usp=sharing]
+
+#### Каждая папка состоит из двух файлов с информацией об одном проекте:
+- Файл README.md с подробным описанием проекта и применяемыми инструментами
+- Тетрадь с кодом на Python в формате JupiterNotebook. Файл содержит в себе сам код, графики, вычисления, промежуточные выводы и подробное описание каждого шага 
